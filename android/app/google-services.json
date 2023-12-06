@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533623314872",
+    "project_id": "alianzatroyana",
+    "storage_bucket": "alianzatroyana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533623314872:android:50899501609ad16399974d",
+        "android_client_info": {
+          "package_name": "com.example.alianza_troyana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZZGaIz4mOIaCHIxk0BDWFHoy9oNRWHEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
